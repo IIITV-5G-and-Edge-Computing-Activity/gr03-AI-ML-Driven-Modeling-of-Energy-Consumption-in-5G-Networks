@@ -1,6 +1,6 @@
 # AI/ML for 5G-Energy Consumption Modeling
 
-This repository contains the code and methodology to address the **ITU AI/ML in 5G Challenge** for energy consumption modeling in 5G networks. The goal is to design a machine learning model to accurately estimate and optimize energy consumption in base stations under varying configurations and conditions.
+This repository contains the code and methodology to address the energy consumption modeling in 5G networks. The goal is to design a machine learning model to accurately estimate and optimize energy consumption in base stations under varying configurations and conditions.
 
 ---
 
