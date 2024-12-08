@@ -2,6 +2,8 @@
 
 This repository contains the code and methodology to address the energy consumption modeling in 5G networks. The goal is to design a machine learning model to accurately estimate and optimize energy consumption in base stations under varying configurations and conditions.
 
+# Video link - https://drive.google.com/file/d/1o3_E_51c0dirBL2sxoGCDnTu79iZFfl9/view?usp=sharing
+
 ---
 
 ## Problem Statement
